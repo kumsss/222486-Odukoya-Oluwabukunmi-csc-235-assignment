@@ -56,4 +56,4 @@ Step 1: Install the C compiler on your system by using the command “sudo apt i
 Step 2: Go to the directory where you have you C program and compile it using the command, “gcc -o my_program.c”
 Step 3:  After the object file I s been created, run it with “./my_program”
 
-Link to my Github account for the written codes for Questions 8,9,10,11,12 :
+Link to my Github account for the written codes for Questions 8,9,10,11,12 : https://github.com/kumsss/222486-Odukoya-Oluwabukunmi-csc-235-assignment/tree/master
