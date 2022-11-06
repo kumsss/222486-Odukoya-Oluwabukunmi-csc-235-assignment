@@ -18,7 +18,7 @@ int main(){
         printf("Your discriminant has a negative value, therefore cannot be computed");
    }else{
       discr = sqrt(pow(b,2) -(4*a*c));
-      //saves roots in variable
+      //saves roots in variables
       ans = (-b + discr)/(2*a);
       ans2 = (-b - discr)/(2*a);
         printf("Your roots are %d or %d", ans, ans2);
